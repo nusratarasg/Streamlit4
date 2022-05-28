@@ -1,5 +1,4 @@
 import streamlit as st
-
 from explore_page import show_explore_page
 from visualize_page import show_visualize_page
 from predict_page import show_predict_page
